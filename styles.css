@@ -8,9 +8,7 @@
 	background-color:white;
 	box-sizing:border-box;
 }
-#container>div>cite{
-	text-style:italic;
-	display:block;
-	width:100%;
+.italic{
+	font-style:italic;
 	text-align:right;
 }
